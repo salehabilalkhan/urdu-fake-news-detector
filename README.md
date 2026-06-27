@@ -1,4 +1,6 @@
 # 📰 Urdu Fake News Detector
+## 🔗 Live Demo
+[Click here to try the app](https://zp7qn.streamlit.app)
 
 An AI-powered web app that detects fake news in Urdu language using NLP.
 
